@@ -23,4 +23,6 @@ For detailed project documentation, click on [Project Documentation](https://git
 
 For base paper, [Base Paper](https://github.com/CVBhanuPrakash/VLSI/blob/main/Efficient%20Synthesis%20of%20Reversible%20Circuits%20Using%20QCA/grp%2018%20base%20paper.pdf)
 
+Google Drive Foler, [Link](https://drive.google.com/drive/folders/1maCzbkERLGm0M0RihYvx8IhNokNsGGEO?usp=sharing)
+
 By proposing enhanced versions of essential QCA gates and circuits, this project showcases my proficiency in VLSI design, quantum-dot cellular automata, and my commitment to overcoming challenges in electronic device engineering.
